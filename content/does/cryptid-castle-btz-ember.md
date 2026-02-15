@@ -4,6 +4,8 @@ type: "does"
 featured_image: "/images/ember-reserve-jr-champion.jpg"
 ---
 
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002317675)
+
 🏆 **Reserve Junior Champion** — SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter
 
 <div class="photo-gallery">

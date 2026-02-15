@@ -5,6 +5,8 @@ type: "does"
 featured_image: "/images/phoenix-nwodga-2025.jpg"
 ---
 
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002207433)
+
 <div class="photo-gallery">
   <div>
     <img src="/images/phoenix-nwodga-2025.jpg" alt="Phoenix — 4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa">

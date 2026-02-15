@@ -4,6 +4,8 @@ type: "does"
 featured_image: "/images/anna-reserve-champion.png"
 ---
 
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002375309)
+
 🏆 **ADGA Nubian Reserve Champion**
 
 <div class="photo-gallery">

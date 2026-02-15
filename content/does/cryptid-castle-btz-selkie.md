@@ -4,6 +4,8 @@ type: "does"
 featured_image: "/images/selkie-show.png"
 ---
 
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002396423)
+
 <div class="photo-gallery">
   <div><img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>
   <div><img src="/images/selkie-ring.png" alt="Selkie in the show ring at an ADGA sanctioned show"></div>

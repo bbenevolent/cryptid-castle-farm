@@ -4,6 +4,8 @@ type: "does"
 featured_image: "/images/poppy-8-months.jpg"
 ---
 
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002375310)
+
 <div class="photo-gallery">
   <div>
     <img src="/images/poppy-8-months.jpg" alt="Poppy at 8 months old">

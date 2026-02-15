@@ -4,6 +4,8 @@ type: "does"
 featured_image: "/images/elsa-2nd-freshener-1.jpg"
 ---
 
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002261996)
+
 <div class="photo-gallery">
   <div>
     <img src="/images/elsa-2nd-freshener-1.jpg" alt="Elsa — 3 year old, 2nd freshener">
