@@ -1,8 +1,27 @@
 ---
 title: "Cryptid Castle BTZ Poppy"
 type: "does"
-
+featured_image: "/images/poppy-8-months.jpg"
 ---
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/poppy-8-months.jpg" alt="Poppy at 8 months old">
+    <p class="caption">8 months old</p>
+  </div>
+  <div>
+    <img src="/images/poppy-6-months.jpg" alt="Poppy at 6 months old">
+    <p class="caption">6 months old</p>
+  </div>
+  <div>
+    <img src="/images/poppy-milking-yearling-1.jpg" alt="Poppy as a milking yearling">
+    <p class="caption">Milking yearling</p>
+  </div>
+  <div>
+    <img src="/images/poppy-milking-yearling-2.jpg" alt="Poppy as a milking yearling">
+    <p class="caption">Milking yearling</p>
+  </div>
+</div>
 
 ## Breeding Info
 
