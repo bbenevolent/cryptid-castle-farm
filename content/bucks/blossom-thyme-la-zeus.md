@@ -4,7 +4,7 @@ type: "bucks"
 
 ---
 
-**Secondary / Leased Buck**
+**Senior Herdsire**
 
 Zeus is used as a secondary sire in our breeding program for the 2025/2026 season.
 
