@@ -1,7 +1,7 @@
 ---
 title: "Englskye Watermelon Moonshine"
 type: "does"
-featured_image: "/images/watermelon-moonshine.png"
+featured_image: "/cryptid-castle-farm/images/watermelon-moonshine.png"
 ---
 
 <img src="/cryptid-castle-farm/images/watermelon-moonshine.png" alt="Englskye Watermelon Moonshine">

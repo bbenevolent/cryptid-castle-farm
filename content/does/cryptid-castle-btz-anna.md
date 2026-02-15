@@ -1,7 +1,7 @@
 ---
 title: "Cryptid Castle BTZ Anna"
 type: "does"
-featured_image: "/images/anna-ribbons.png"
+featured_image: "/cryptid-castle-farm/images/anna-ribbons.png"
 ---
 
 <div class="gallery">

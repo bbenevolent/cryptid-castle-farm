@@ -1,7 +1,7 @@
 ---
 title: "Cryptid Castle BTZ Selkie"
 type: "does"
-featured_image: "/images/selkie-show.png"
+featured_image: "/cryptid-castle-farm/images/selkie-show.png"
 ---
 
 <div class="gallery">
