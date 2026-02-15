@@ -11,9 +11,32 @@
   {{ if or (eq $section "does") (eq $section "bucks") (eq $section "for-sale") }}
 
   {{ $active := where .RegularPages ".Params.rainbow_bridge" "!=" true }}
-  {{ if $active }}
+  {{ $senior := where $active ".Params.junior_doe" "!=" true }}
+  {{ $junior := where $active ".Params.junior_doe" true }}
+
+  {{ if $senior }}
   <div class="goat-grid">
-    {{ range $active }}
+    {{ range $senior }}
+    {{ $title := .Title }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.categories }}
+        <div class="tag-list">
+          {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ if $junior }}
+  <h2>Junior Does</h2>
+  <div class="goat-grid">
+    {{ range $junior }}
     {{ $title := .Title }}
     <div class="goat-card">
       {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $title }}">{{ end }}

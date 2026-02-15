@@ -2,6 +2,7 @@
 title: "Englskye Watermelon Moonshine"
 type: "does"
 featured_image: "/images/watermelon-moonshine.png"
+junior_doe: true
 ---
 
 <img src="/images/watermelon-moonshine.png" alt="Englskye Watermelon Moonshine">
