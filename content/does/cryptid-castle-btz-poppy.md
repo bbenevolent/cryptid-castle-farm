@@ -1,7 +1,7 @@
 ---
 title: "Cryptid Castle BTZ Poppy"
 type: "does"
-featured_image: "/images/placeholder-goat.jpg"
+
 ---
 
 ## Breeding Info

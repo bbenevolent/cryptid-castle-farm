@@ -1,7 +1,7 @@
 ---
 title: "Wingwood Farm STR Lord Donegal"
 type: "bucks"
-featured_image: "/images/placeholder-goat.jpg"
+
 ---
 
 **Primary Herd Sire**

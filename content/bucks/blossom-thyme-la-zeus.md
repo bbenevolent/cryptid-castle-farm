@@ -1,7 +1,7 @@
 ---
 title: "Blossom-Thyme LA Zeus"
 type: "bucks"
-featured_image: "/images/placeholder-goat.jpg"
+
 ---
 
 **Secondary / Leased Buck**

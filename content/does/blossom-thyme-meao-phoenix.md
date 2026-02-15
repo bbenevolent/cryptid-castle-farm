@@ -1,7 +1,7 @@
 ---
 title: "Blossom-Thyme MEAO Phoenix"
 type: "does"
-featured_image: "/images/placeholder-goat.jpg"
+
 ---
 
 ## Breeding Info
