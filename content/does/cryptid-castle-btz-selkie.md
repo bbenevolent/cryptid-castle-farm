@@ -4,9 +4,9 @@ type: "does"
 featured_image: "/images/selkie-show.png"
 ---
 
-<div class="gallery">
-  <img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography">
-  <img src="/images/selkie-ring.png" alt="Selkie in the show ring at an ADGA sanctioned show">
+<div class="photo-gallery">
+  <div><img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>
+  <div><img src="/images/selkie-ring.png" alt="Selkie in the show ring at an ADGA sanctioned show"></div>
 </div>
 
 ## Breeding Info

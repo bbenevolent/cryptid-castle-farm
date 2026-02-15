@@ -5,13 +5,16 @@ type: "does"
 featured_image: "/images/phoenix-nwodga-2025.jpg"
 ---
 
-<img src="/images/phoenix-nwodga-2025.jpg" alt="Phoenix — 4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa">
-
-**4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa**
-
-<img src="/images/phoenix-photo-1.jpg" alt="Phoenix — 3 year old, 2nd freshener">
-
-**3 year old, 2nd freshener**
+<div class="photo-gallery">
+  <div>
+    <img src="/images/phoenix-nwodga-2025.jpg" alt="Phoenix — 4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa">
+    <p class="caption">4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa</p>
+  </div>
+  <div>
+    <img src="/images/phoenix-photo-1.jpg" alt="Phoenix — 3 year old, 2nd freshener">
+    <p class="caption">3 year old, 2nd freshener</p>
+  </div>
+</div>
 
 ## Breeding Info
 

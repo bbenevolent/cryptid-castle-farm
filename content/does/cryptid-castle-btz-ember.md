@@ -4,9 +4,13 @@ type: "does"
 featured_image: "/images/ember-reserve-jr-champion.jpg"
 ---
 
-<img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
-
 🏆 **Reserve Junior Champion** — SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
+  </div>
+</div>
 
 ## Breeding Info
 
