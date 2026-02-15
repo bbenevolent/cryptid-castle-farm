@@ -1,13 +1,10 @@
 ---
 title: "Cryptid Castle BTZ Anna"
 type: "does"
-featured_image: "/cryptid-castle-farm/images/anna-ribbons.png"
+featured_image: "/cryptid-castle-farm/images/anna-reserve-champion.png"
 ---
 
-<div class="gallery">
-  <img src="/cryptid-castle-farm/images/anna-ribbons.png" alt="Anna with ADGA Reserve Champion ribbons">
-  <img src="/cryptid-castle-farm/images/anna-reserve-champion.png" alt="Anna — ADGA Nubian Reserve Champion">
-</div>
+<img src="/cryptid-castle-farm/images/anna-reserve-champion.png" alt="Anna — ADGA Nubian Reserve Champion">
 
 🏆 **ADGA Nubian Reserve Champion**
 
