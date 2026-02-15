@@ -8,6 +8,9 @@ featured_image: "/cryptid-castle-farm/images/anna-reserve-champion.png"
 
 🏆 **ADGA Nubian Reserve Champion**
 
+<img src="/cryptid-castle-farm/images/anna-photo-1.jpg" alt="Anna">
+<img src="/cryptid-castle-farm/images/anna-photo-2.jpg" alt="Anna">
+
 ## Breeding Info
 
 **Bred to:** Wingwood Farm STR Lord Donegal
