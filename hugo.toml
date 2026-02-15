@@ -1,0 +1,53 @@
+baseURL = 'https://bbenevolent.github.io/cryptid-castle-farm/'
+languageCode = 'en-us'
+title = 'Cryptid Castle'
+theme = 'cryptid'
+
+[params]
+  description = "ADGA Registered Nubian Dairy Goats"
+  location = "TBD"
+  facebook = "https://www.facebook.com/profile.php?id=61557652751786"
+  logo = "/images/logo.png"
+  email = ""
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Does"
+    url = "/does/"
+    weight = 2
+  [[menu.main]]
+    name = "Bucks"
+    url = "/bucks/"
+    weight = 3
+  [[menu.main]]
+    name = "Breeding Schedule"
+    url = "/breeding-schedule/"
+    weight = 4
+  [[menu.main]]
+    name = "For Sale"
+    url = "/for-sale/"
+    weight = 5
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+
+[pagination]
+  pagerSize = 12
