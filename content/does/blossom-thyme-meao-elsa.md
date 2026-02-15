@@ -1,8 +1,19 @@
 ---
 title: "Blossom-Thyme MEAO Elsa"
 type: "does"
-
+featured_image: "/images/elsa-2nd-freshener-1.jpg"
 ---
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/elsa-2nd-freshener-1.jpg" alt="Elsa — 3 year old, 2nd freshener">
+    <p class="caption">3 year old, 2nd freshener</p>
+  </div>
+  <div>
+    <img src="/images/elsa-2nd-freshener-2.jpg" alt="Elsa — 3 year old, 2nd freshener">
+    <p class="caption">3 year old, 2nd freshener</p>
+  </div>
+</div>
 
 ## Breeding Info
 
