@@ -4,6 +4,8 @@ title: "Contact"
 
 Interested in our goats? Questions about upcoming kids? Please reach out!
 
+📧 **Email:** [cryptidcastlefarm@gmail.com](mailto:cryptidcastlefarm@gmail.com)
+
 📘 [Find us on Facebook](https://www.facebook.com/profile.php?id=61557652751786)
 
 ## Send Us a Message

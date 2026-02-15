@@ -5,10 +5,12 @@ theme = 'cryptid'
 
 [params]
   description = "ADGA Registered Nubian Dairy Goats"
-  location = "TBD"
+  location = "Toledo, Washington"
+  established = "2021"
+  owner = "Kelly Kleidon"
   facebook = "https://www.facebook.com/profile.php?id=61557652751786"
   logo = "/images/logo.png"
-  email = ""
+  email = "cryptidcastlefarm@gmail.com"
 
 [menu]
   [[menu.main]]
