@@ -10,6 +10,8 @@ We are passionate about raising quality Nubians with excellent conformation, str
 
 <img src="/images/goat-trailer.png" alt="Goat peeking out of the trailer — ready for adventure!" style="max-width: 100%; border-radius: 6px; margin: 1.5rem 0;">
 
+<img src="/images/about-photo.jpg" alt="Cryptid Castle Farm" style="max-width: 100%; border-radius: 6px; margin: 1.5rem 0;">
+
 ## Contact
 
 📧 **Email:** [cryptidcastlefarm@gmail.com](mailto:cryptidcastlefarm@gmail.com)
