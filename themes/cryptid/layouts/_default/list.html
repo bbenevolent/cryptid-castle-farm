@@ -15,7 +15,7 @@
   <div class="goat-grid">
     {{ range $active }}
     <div class="goat-card">
-      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . | relURL }}" alt="{{ $.Title }}">{{ end }}
       <div class="goat-card-body">
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         {{ with .Params.categories }}

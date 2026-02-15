@@ -5,8 +5,8 @@ featured_image: "/images/anna-ribbons.png"
 ---
 
 <div class="gallery">
-  <img src="/images/anna-ribbons.png" alt="Anna with ADGA Reserve Champion ribbons">
-  <img src="/images/anna-reserve-champion.png" alt="Anna — ADGA Nubian Reserve Champion">
+  <img src="/cryptid-castle-farm/images/anna-ribbons.png" alt="Anna with ADGA Reserve Champion ribbons">
+  <img src="/cryptid-castle-farm/images/anna-reserve-champion.png" alt="Anna — ADGA Nubian Reserve Champion">
 </div>
 
 🏆 **ADGA Nubian Reserve Champion**
