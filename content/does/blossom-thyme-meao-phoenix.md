@@ -2,14 +2,14 @@
 title: "Blossom-Thyme MEAO Phoenix"
 type: "does"
 
-featured_image: "/cryptid-castle-farm/images/phoenix-nwodga-2025.jpg"
+featured_image: "/images/phoenix-nwodga-2025.jpg"
 ---
 
-<img src="/cryptid-castle-farm/images/phoenix-nwodga-2025.jpg" alt="Phoenix — 4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa">
+<img src="/images/phoenix-nwodga-2025.jpg" alt="Phoenix — 4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa">
 
 **4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa**
 
-<img src="/cryptid-castle-farm/images/phoenix-photo-1.jpg" alt="Phoenix — 3 year old, 2nd freshener">
+<img src="/images/phoenix-photo-1.jpg" alt="Phoenix — 3 year old, 2nd freshener">
 
 **3 year old, 2nd freshener**
 

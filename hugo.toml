@@ -1,4 +1,4 @@
-baseURL = 'https://bbenevolent.github.io/cryptid-castle-farm/'
+baseURL = 'https://cryptidcastle.farm/'
 languageCode = 'en-us'
 title = 'Cryptid Castle'
 theme = 'cryptid'

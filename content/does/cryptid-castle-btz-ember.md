@@ -1,10 +1,10 @@
 ---
 title: "Cryptid Castle BTZ Ember"
 type: "does"
-featured_image: "/cryptid-castle-farm/images/ember-reserve-jr-champion.jpg"
+featured_image: "/images/ember-reserve-jr-champion.jpg"
 ---
 
-<img src="/cryptid-castle-farm/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
+<img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
 
 🏆 **Reserve Junior Champion** — SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter
 
