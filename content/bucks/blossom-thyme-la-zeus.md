@@ -2,7 +2,10 @@
 title: "Blossom-Thyme LA Zeus"
 type: "bucks"
 
+featured_image: "/images/zeus-photo-1.jpg"
 ---
+
+<img src="/images/zeus-photo-1.jpg" alt="Blossom-Thyme LA Zeus">
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002259578)
 
