@@ -33,13 +33,17 @@ See our [breeding schedule](/breeding-schedule/) for full pairing details.
 
 ## Zeus's Dam, GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE
 
-<div class="photo-gallery">
-  <div><img src="/images/zeus-dam-zhow-ztopper-1.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"><p>Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p></div>
-  <div><img src="/images/zeus-dam-zhow-ztopper-2.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"><p>Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p></div>
+<div style="text-align: center;">
+  <div class="photo-gallery">
+    <div><img src="/images/zeus-dam-zhow-ztopper-1.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"></div>
+    <div><img src="/images/zeus-dam-zhow-ztopper-2.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"></div>
+  </div>
+  <p>4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p>
 </div>
 
 ## Zeus's Sire, GCH *B Wingwood Farm Lovin Astaire "Elite" 91EEE
 
-<div class="photo-gallery">
-  <div><img src="/images/zeus-sire-astaire.jpg" alt="GCH *B Wingwood Farm Lovin Astaire Elite"><p>Photo courtesy of the Astaire Syndicate</p></div>
+<div style="text-align: center;">
+  <img src="/images/zeus-sire-astaire.jpg" alt="GCH *B Wingwood Farm Lovin Astaire Elite" style="max-width: 100%;">
+  <p>Photo courtesy of the Astaire Syndicate</p>
 </div>

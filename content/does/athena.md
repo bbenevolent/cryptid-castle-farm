@@ -3,7 +3,7 @@ title: "Cryptid Castle BTZ Athena"
 type: "does"
 featured_image: "/images/athena-and-penelope-7-weeks.jpg"
 junior_doe: true
-weight: 10
+weight: 11
 ---
 
 **DOB:** April 2, 2025
