@@ -3,14 +3,15 @@ title: "Cryptid Castle CMZ Petunia"
 type: "does"
 junior_doe: true
 featured_image: "/images/petunia-baby.jpg"
+weight: 10
 ---
-
-**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002446312)
 
 **DOB:** March 29, 2025
 
-**Sire:** [Wingwood Farm CMZ Ronan](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002413302)
+**Sire:** [Blossom-Thyme CM Zhuzh](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002413302)
 **Dam:** [Cryptid Castle BTZ Poppy](/does/cryptid-castle-btz-poppy/)
+
+**ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002446312)
 
 <div class="photo-gallery">
   <div>

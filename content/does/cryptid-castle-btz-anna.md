@@ -1,8 +1,14 @@
 ---
 title: "Cryptid Castle BTZ Anna"
 type: "does"
-featured_image: "/images/anna-reserve-champion.png"
+featured_image: "/images/anna-photo-2.jpg"
+weight: 5
 ---
+
+**DOB:** January 16, 2024
+
+**Sire:** [Blossom-Thyme LA Zeus](/bucks/blossom-thyme-la-zeus/)
+**Dam:** [Blossom-Thyme MEAO Elsa](/does/blossom-thyme-meao-elsa/)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002375309)
 

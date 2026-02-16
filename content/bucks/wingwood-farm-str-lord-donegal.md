@@ -2,7 +2,13 @@
 title: "Wingwood Farm STR Lord Donegal"
 type: "bucks"
 featured_image: "/images/donegal-photo.jpg"
+weight: 7
 ---
+
+**DOB:** March 31, 2024
+
+**Sire:** [Wingwood Farm ARA Allstar](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002266017)
+**Dam:** [Wingwood Farm Blazn Lady Nimue](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002257966)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002416362)
 

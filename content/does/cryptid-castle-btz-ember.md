@@ -2,7 +2,13 @@
 title: "Cryptid Castle BTZ Ember"
 type: "does"
 featured_image: "/images/ember-reserve-jr-champion.jpg"
+weight: 4
 ---
+
+**DOB:** April 11, 2023
+
+**Sire:** [Blossom-Thyme LA Zeus](/bucks/blossom-thyme-la-zeus/)
+**Dam:** [Blossom-Thyme MEAO Phoenix](/does/blossom-thyme-meao-phoenix/)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002317675)
 

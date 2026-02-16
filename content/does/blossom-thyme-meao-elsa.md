@@ -2,7 +2,13 @@
 title: "Blossom-Thyme MEAO Elsa"
 type: "does"
 featured_image: "/images/elsa-2nd-freshener-1.jpg"
+weight: 2
 ---
+
+**DOB:** March 21, 2022
+
+**Sire:** [My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
+**Dam:** [Lassenwood MC Valentina](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001816438)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002261996)
 

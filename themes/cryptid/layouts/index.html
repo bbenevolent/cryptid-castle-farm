@@ -9,10 +9,25 @@
   {{ .Content }}
 
   {{ $does := where (where .Site.RegularPages "Section" "does") ".Params.type" "does" }}
-  {{ if $does }}
+  {{ $seniorDoes := where $does ".Params.junior_doe" "!=" true }}
+  {{ $juniorDoes := where $does ".Params.junior_doe" true }}
+  {{ if $seniorDoes }}
   <h2 class="section-heading">Our Does</h2>
   <div class="goat-grid">
-    {{ range $does }}
+    {{ range sort $seniorDoes "Params.weight" "asc" }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+  {{ if $juniorDoes }}
+  <h2 style="text-align: center; color: #1a3a1a; text-transform: uppercase; font-family: 'Cinzel', serif; letter-spacing: 1px;">Junior Does</h2>
+  <div class="goat-grid">
+    {{ range sort $juniorDoes "Params.weight" "asc" }}
     <div class="goat-card">
       {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
       <div class="goat-card-body">

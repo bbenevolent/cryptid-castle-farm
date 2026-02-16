@@ -2,7 +2,13 @@
 title: "Cryptid Castle BTZ Selkie"
 type: "does"
 featured_image: "/images/selkie-show.png"
+weight: 8
 ---
+
+**DOB:** May 6, 2024
+
+**Sire:** [Blossom-Thyme LA Zeus](/bucks/blossom-thyme-la-zeus/)
+**Dam:** [Blossom-Thyme MEAO Phoenix](/does/blossom-thyme-meao-phoenix/)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002396423)
 

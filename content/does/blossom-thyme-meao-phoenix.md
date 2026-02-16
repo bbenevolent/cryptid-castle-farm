@@ -1,9 +1,14 @@
 ---
 title: "Blossom-Thyme MEAO Phoenix"
 type: "does"
-
 featured_image: "/images/phoenix-nwodga-2025.jpg"
+weight: 1
 ---
+
+**DOB:** April 2, 2021
+
+**Sire:** [My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
+**Dam:** [Blossom-Thyme KT Fabinia](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001881073)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002207433)
 
