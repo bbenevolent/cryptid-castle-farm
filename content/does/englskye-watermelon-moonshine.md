@@ -10,3 +10,8 @@ junior_doe: true
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002432763)
 
 Yearling doe — not on the 2025/2026 breeding schedule. Watch for her in future seasons!
+
+<figure>
+<img src="/images/moonshine-herdmates.jpg" alt="Moonie fitting in well with her new herdmates">
+<figcaption>Moonie fitting in well with her new herdmates</figcaption>
+</figure>
