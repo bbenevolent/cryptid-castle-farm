@@ -6,6 +6,8 @@ junior_doe: true
 weight: 10
 ---
 
+**ADGA:** [N002442399](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002442399)
+
 **DOB:** April 2, 2025
 
 **Breed:** Purebred Nubian
