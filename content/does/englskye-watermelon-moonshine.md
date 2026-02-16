@@ -10,6 +10,8 @@ weight: 9
 
 **DOB:** February 22, 2025
 
+**Breed:** Purebred Nubian
+
 **Sire:** [Wingwood Farm Star Aquarius](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002352756)
 **Dam:** [Engylskye RDR Firefly](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002313151)
 

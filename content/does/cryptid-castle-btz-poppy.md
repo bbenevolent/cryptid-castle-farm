@@ -7,7 +7,7 @@ weight: 6
 
 **DOB:** January 23, 2024
 
-**Breed:** American
+**Breed:** American Nubian
 
 **Sire:** [Blossom-Thyme LA Zeus](/bucks/blossom-thyme-la-zeus/)
 **Dam:** [Blossom-Thyme BTL Alexa](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002207432)

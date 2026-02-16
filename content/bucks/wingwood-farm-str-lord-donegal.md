@@ -7,6 +7,8 @@ weight: 7
 
 **DOB:** March 31, 2024
 
+**Breed:** Purebred Nubian
+
 **Sire:** [Wingwood Farm ARA Allstar](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002266017)
 **Dam:** [Wingwood Farm Blazn Lady Nimue](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002257966)
 

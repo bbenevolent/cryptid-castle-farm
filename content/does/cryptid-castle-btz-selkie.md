@@ -7,6 +7,8 @@ weight: 8
 
 **DOB:** May 6, 2024
 
+**Breed:** Purebred Nubian
+
 **Sire:** [Blossom-Thyme LA Zeus](/bucks/blossom-thyme-la-zeus/)
 **Dam:** [Blossom-Thyme MEAO Phoenix](/does/blossom-thyme-meao-phoenix/)
 

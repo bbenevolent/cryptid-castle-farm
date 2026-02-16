@@ -7,6 +7,8 @@ weight: 1
 
 **DOB:** April 2, 2021
 
+**Breed:** Purebred Nubian
+
 **Sire:** [My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
 **Dam:** [Blossom-Thyme KT Fabinia](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001881073)
 

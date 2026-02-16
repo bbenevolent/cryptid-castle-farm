@@ -9,6 +9,8 @@ weight: 3
 
 **DOB:** May 21, 2022
 
+**Breed:** Purebred Nubian
+
 **Sire:** [Wingwood Farm Lovin Astaire](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002014725)
 **Dam:** [Blossom-Thyme CM Zhow Ztopper](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002146185)
 

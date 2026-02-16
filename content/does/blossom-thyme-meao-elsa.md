@@ -7,6 +7,8 @@ weight: 2
 
 **DOB:** March 21, 2022
 
+**Breed:** Purebred Nubian
+
 **Sire:** [My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
 **Dam:** [Lassenwood MC Valentina](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001816438)
 
@@ -20,6 +22,10 @@ weight: 2
   <div>
     <img src="/images/elsa-2nd-freshener-2.jpg" alt="Elsa — 3 year old, 2nd freshener">
     <p class="caption">3 year old, 2nd freshener</p>
+  </div>
+  <div>
+    <img src="/images/elsa-2yr-first-freshener.jpg" alt="Elsa — 2 year old first freshener">
+    <p class="caption">2 year old first freshener</p>
   </div>
 </div>
 

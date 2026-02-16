@@ -8,6 +8,8 @@ weight: 10
 
 **DOB:** March 29, 2025
 
+**Breed:** Purebred Nubian
+
 **Sire:** [Blossom-Thyme CM Zhuzh](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002413302)
 **Dam:** [Cryptid Castle BTZ Poppy](/does/cryptid-castle-btz-poppy/)
 
