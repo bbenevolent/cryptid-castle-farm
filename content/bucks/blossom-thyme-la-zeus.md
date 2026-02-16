@@ -35,3 +35,4 @@ See our [breeding schedule](/breeding-schedule/) for full pairing details.
 - [Cryptid Castle BTZ Ember](/does/cryptid-castle-btz-ember/)
 - [Cryptid Castle BTZ Poppy](/does/cryptid-castle-btz-poppy/)
 - [Cryptid Castle BTZ Selkie](/does/cryptid-castle-btz-selkie/)
+- [Cryptid Castle BTZ Athena](/does/athena/)
