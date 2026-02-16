@@ -11,8 +11,8 @@ weight: 3
 
 **Breed:** Purebred Nubian
 
-**Sire:** [Wingwood Farm Lovin Astaire](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002014725)
-**Dam:** [GCH Blossom-Thyme CM Zhow Ztopper 2*M](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002146185)
+**Sire:** [GCH *B Wingwood Farm Lovin Astaire "Elite" 91EEE](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002014725)
+**Dam:** [GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002146185)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002259578)
 
@@ -22,13 +22,6 @@ Zeus is used as a secondary sire in our breeding program for the 2025/2026 seaso
 
 See our [breeding schedule](/breeding-schedule/) for full pairing details.
 
-## Zeus's Dam
-
-<div class="photo-gallery">
-  <div><img src="/images/zeus-dam-zhow-ztopper-1.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"><p>Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p></div>
-  <div><img src="/images/zeus-dam-zhow-ztopper-2.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"><p>Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p></div>
-</div>
-
 ## Daughters
 
 - [Cryptid Castle BTZ Anna](/does/cryptid-castle-btz-anna/)
@@ -36,3 +29,16 @@ See our [breeding schedule](/breeding-schedule/) for full pairing details.
 - [Cryptid Castle BTZ Poppy](/does/cryptid-castle-btz-poppy/)
 - [Cryptid Castle BTZ Selkie](/does/cryptid-castle-btz-selkie/)
 - [Cryptid Castle BTZ Athena](/does/athena/)
+
+## Zeus's Dam, GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE
+
+<div class="photo-gallery">
+  <div><img src="/images/zeus-dam-zhow-ztopper-1.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"><p>Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p></div>
+  <div><img src="/images/zeus-dam-zhow-ztopper-2.jpg" alt="Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener"><p>Zeus's Dam GCH Blossom-Thyme CM Zhow Ztopper 2*M as a 4 year old 3rd freshener. (Photo courtesy of Blossom-Thyme)</p></div>
+</div>
+
+## Zeus's Sire, GCH *B Wingwood Farm Lovin Astaire "Elite" 91EEE
+
+<div class="photo-gallery">
+  <div><img src="/images/zeus-sire-astaire.jpg" alt="GCH *B Wingwood Farm Lovin Astaire Elite"><p>Photo courtesy of the Astaire Syndicate</p></div>
+</div>
