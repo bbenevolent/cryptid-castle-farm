@@ -29,6 +29,7 @@ See our [breeding schedule](/breeding-schedule/) for full pairing details.
 - [Cryptid Castle BTZ Poppy](/does/cryptid-castle-btz-poppy/)
 - [Cryptid Castle BTZ Selkie](/does/cryptid-castle-btz-selkie/)
 - [Cryptid Castle BTZ Athena](/does/athena/)
+- [Cryptid Castle BTZ Penelope](/does/cryptid-castle-btz-penelope/)
 
 ## Zeus's Dam, GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE
 
