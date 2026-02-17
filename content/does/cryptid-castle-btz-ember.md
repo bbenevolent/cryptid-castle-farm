@@ -18,7 +18,7 @@ weight: 4
 
 ## Show Results
 
-*No show results yet.*
+- Reserve Junior Champion
 
 <div class="photo-gallery">
   <div>

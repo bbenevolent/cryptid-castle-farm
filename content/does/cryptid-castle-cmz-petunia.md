@@ -17,7 +17,7 @@ weight: 10
 
 ## Show Results
 
-*No show results yet.*
+- 3rd, 3rd, and 4th place at Barn in the USA 2025
 
 <div class="photo-gallery">
   <div>

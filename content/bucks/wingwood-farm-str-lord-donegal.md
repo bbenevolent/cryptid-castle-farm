@@ -16,10 +16,6 @@ weight: 7
 
 **Junior Herd Sire**
 
-## Show Results
-
-*No show results yet.*
-
 <div class="photo-gallery">
   <div>
     <img src="/images/donegal-photo.jpg" alt="Lord Donegal">
