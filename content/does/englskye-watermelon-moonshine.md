@@ -6,6 +6,10 @@ junior_doe: true
 weight: 9
 ---
 
+## Show Results
+
+*No show results yet.*
+
 <img src="/images/watermelon-moonshine.jpg" alt="Englskye Watermelon Moonshine">
 
 **DOB:** February 22, 2025

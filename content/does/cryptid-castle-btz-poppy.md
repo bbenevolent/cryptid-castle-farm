@@ -14,6 +14,10 @@ weight: 6
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002375310)
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div>
     <img src="/images/poppy-8-months.jpg" alt="Poppy at 8 months old">

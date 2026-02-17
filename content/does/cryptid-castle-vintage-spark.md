@@ -15,6 +15,10 @@ featured_image: "/images/spark-main.jpg"
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002442401)
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div><img src="/images/spark-main.jpg" alt="Spark"></div>
   <div><img src="/images/spark-1-week-old.jpg" alt="Spark at 1 week old"><p>1 week old</p></div>

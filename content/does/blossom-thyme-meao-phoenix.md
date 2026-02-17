@@ -14,6 +14,10 @@ weight: 1
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002207433)
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div>
     <img src="/images/phoenix-nwodga-2025.jpg" alt="Phoenix — 4 year old, 3rd freshener. At NWODGA 2025 in Salem, with her bestie Elsa">

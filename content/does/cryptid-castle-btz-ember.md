@@ -16,6 +16,10 @@ weight: 4
 
 🏆 **Reserve Junior Champion** — SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div>
     <img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
@@ -23,6 +27,10 @@ weight: 4
   <div>
     <img src="/images/ember-14months-frenemies.jpg" alt="Ember — 14 months old. Hanging out and being frenemies with her dam.">
     <p class="caption">14 months old. Hanging out and being frenemies with her dam.</p>
+  </div>
+  <div>
+    <img src="/images/ember-2yr-freshener.jpg" alt="Ember — Ember as a 2 year old first freshener.">
+    <p class="caption">Ember as a 2 year old first freshener. She unfortunately freshened with mastitis on one side, and didn't get to show in 2025 because of it. This pic is after treatment and right before drying her off. She also had a short milking season.</p>
   </div>
 </div>
 

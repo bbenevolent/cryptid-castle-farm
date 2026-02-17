@@ -14,6 +14,10 @@ weight: 2
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002261996)
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div>
     <img src="/images/elsa-2nd-freshener-1.jpg" alt="Elsa — 3 year old, 2nd freshener">

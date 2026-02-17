@@ -16,6 +16,10 @@ weight: 5
 
 🏆 **ADGA Nubian Reserve Champion**
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div>
     <img src="/images/anna-reserve-champion.png" alt="Anna — ADGA Nubian Reserve Champion">

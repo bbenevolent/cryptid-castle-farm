@@ -15,6 +15,10 @@ weight: 11
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002442399)
 
+## Show Results
+
+*No show results yet.*
+
 <div class="photo-gallery">
   <div><img src="/images/penelope-10months.jpg" alt="Penelope at 10 months old"><p>10 months old</p></div>
   <div><img src="/images/penelope-main.jpg" alt="Penelope"><p>Penelope</p></div>
