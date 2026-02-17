@@ -2,7 +2,7 @@
 title: "Cryptid Castle CMZ Petunia"
 type: "does"
 junior_doe: true
-featured_image: "/images/petunia-baby.jpg"
+featured_image: "/images/petunia-10months.jpg"
 weight: 10
 ---
 
@@ -16,6 +16,10 @@ weight: 10
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002446312)
 
 <div class="photo-gallery">
+  <div>
+    <img src="/images/petunia-10months.jpg" alt="Petunia at 10 months old">
+    <p class="caption">10 months old</p>
+  </div>
   <div>
     <img src="/images/petunia-baby.jpg" alt="Baby Petunia, the perfect lap goat!">
     <p class="caption">Baby Petunia, the perfect lap goat!</p>
