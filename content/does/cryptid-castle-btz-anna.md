@@ -18,6 +18,8 @@ weight: 5
 
 ## Show Results
 
+- 3 time Reserve Junior Champion at NEWDGA 2025
+- Reserve Junior Champion at 2025 Kitsap Fuzzy Show
 - 3rd, 6th, and 7th place at Barn in the USA 2025
 
 <div class="photo-gallery">

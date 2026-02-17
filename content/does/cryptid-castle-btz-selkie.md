@@ -16,7 +16,8 @@ weight: 8
 
 ## Show Results
 
-*No show results yet.*
+- 18th place National Junior Yearling at 2025 ADGA National Show
+- Junior Grand Champion at 2025 Kitsap Fuzzy Show
 
 <div class="photo-gallery">
   <div><img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>

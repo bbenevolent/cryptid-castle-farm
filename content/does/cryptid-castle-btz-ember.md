@@ -14,15 +14,14 @@ weight: 4
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002317675)
 
-🏆 **Reserve Junior Champion** — SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter
-
 ## Show Results
 
-- Reserve Junior Champion
+- Reserve Junior Champion — SWWDGA 2024 show at the Washington State Fair
 
 <div class="photo-gallery">
   <div>
-    <img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
+    <img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion — SWWDGA 2024 show at the Washington State Fair">
+    <p class="caption">Reserve Junior Champion — SWWDGA 2024 show at the Washington State Fair</p>
   </div>
   <div>
     <img src="/images/ember-14months-frenemies.jpg" alt="Ember — 14 months old. Hanging out and being frenemies with her dam.">
