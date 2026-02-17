@@ -16,7 +16,7 @@ weight: 1
 
 ## Show Results
 
-- 2nd place with Best Udder, 3rd, and 4th place at NWODGA 2025 show
+- 2nd place with Best Udder at NWODGA 2025 show
 - 1st place at the 2024 Cowlitz County Fair
 
 <div class="photo-gallery">

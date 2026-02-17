@@ -17,7 +17,7 @@ weight: 11
 
 ## Show Results
 
-- 2nd, 3rd, and 7th place at Barn in the USA 2025
+- 2nd place at Barn in the USA 2025
 
 <div class="photo-gallery">
   <div><img src="/images/athena-and-penelope-7-weeks.jpg" alt="Athena on the left, Penelope on the right. 7 weeks old"><p>Athena on the left, Penelope on the right. 7 weeks old</p></div>

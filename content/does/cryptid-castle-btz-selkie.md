@@ -16,7 +16,6 @@ weight: 8
 
 ## Show Results
 
-- 18th place National Junior Yearling at 2025 ADGA National Show
 - Junior Grand Champion at 2025 Kitsap Fuzzy Show
 
 <div class="photo-gallery">
