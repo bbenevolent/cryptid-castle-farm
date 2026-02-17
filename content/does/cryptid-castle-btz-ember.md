@@ -20,6 +20,10 @@ weight: 4
   <div>
     <img src="/images/ember-reserve-jr-champion.jpg" alt="Ember — Reserve Junior Champion at the SWWDGA 2024 show at the Washington State Fair, with Judge Aaron Carter">
   </div>
+  <div>
+    <img src="/images/ember-14months-frenemies.jpg" alt="Ember — 14 months old. Hanging out and being frenemies with her dam.">
+    <p class="caption">14 months old. Hanging out and being frenemies with her dam.</p>
+  </div>
 </div>
 
 ## Breeding Info

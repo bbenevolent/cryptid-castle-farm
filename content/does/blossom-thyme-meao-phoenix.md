@@ -24,6 +24,10 @@ weight: 1
     <p class="caption">3 year old, 2nd freshener</p>
   </div>
   <div>
+    <img src="/images/phoenix-3yr-2nd-freshener.jpg" alt="Phoenix — 3 year old, 2nd freshener.">
+    <p class="caption">3 year old, 2nd freshener.</p>
+  </div>
+  <div>
     <img src="/images/phoenix-fair-2024.jpg" alt="Phoenix — First place 3 year old at the 2024 Cowlitz County Fair">
     <p class="caption">First place 3 year old at the 2024 Cowlitz County Fair</p>
   </div>
