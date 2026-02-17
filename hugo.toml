@@ -34,13 +34,17 @@ theme = 'cryptid'
     url = "/for-sale/"
     weight = 5
   [[menu.main]]
+    name = "Photos"
+    url = "/photos/"
+    weight = 6
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 7
+    weight = 8
 
 [markup]
   [markup.goldmark]

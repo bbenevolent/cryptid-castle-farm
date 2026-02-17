@@ -429,3 +429,33 @@ p { margin-bottom: 1.2rem; }
   .breeding-table thead th { padding: 0.5rem; font-size: 0.7rem; }
   .breeding-table tbody td { padding: 0.5rem; }
 }
+
+/* Photo Gallery */
+.photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 1rem 0;
+}
+
+.photo-item {
+  text-align: center;
+}
+
+.photo-item img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transition: transform 0.2s;
+}
+
+.photo-item img:hover {
+  transform: scale(1.02);
+}
+
+.photo-caption {
+  margin-top: 0.5rem;
+  font-family: 'Cinzel', serif;
+  color: #1a3a1a;
+  font-size: 1.1rem;
+}

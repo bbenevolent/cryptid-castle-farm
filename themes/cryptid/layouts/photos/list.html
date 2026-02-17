@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</div>
+
+<div class="container">
+  {{ .Content }}
+
+  <div class="photo-gallery">
+    {{ range .RegularPages }}
+    <div class="photo-item">
+      {{ with .Params.image }}
+      <a href="{{ . }}" target="_blank">
+        <img src="{{ . }}" alt="{{ $.Title }}">
+      </a>
+      {{ end }}
+      <p class="photo-caption">{{ .Title }}</p>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
