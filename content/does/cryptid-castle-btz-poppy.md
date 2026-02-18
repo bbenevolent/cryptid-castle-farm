@@ -47,6 +47,15 @@ weight: 6
 
 **Price:** $450
 
+## Dam
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/alexa-1.jpg" alt="Blossom-Thyme BTL Alexa">
+    <p class="caption">Blossom-Thyme BTL Alexa</p>
+  </div>
+</div>
+
 ## Sire's Dam
 
 <div class="photo-gallery">

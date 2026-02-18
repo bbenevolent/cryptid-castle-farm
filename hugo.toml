@@ -38,13 +38,17 @@ theme = 'cryptid'
     url = "/photos/"
     weight = 6
   [[menu.main]]
+    name = "Reference"
+    url = "/reference/"
+    weight = 7
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 7
+    weight = 8
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 8
+    weight = 9
 
 [markup]
   [markup.goldmark]
