@@ -9,7 +9,7 @@ weight: 1
 
 **Breed:** Purebred Nubian
 
-**Sire:** [My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
+**Sire:** [*B My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
 **Dam:** [Blossom-Thyme KT Fabinia](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001881073)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002207433)
@@ -65,8 +65,8 @@ weight: 1
 
 <div class="photo-gallery">
   <div>
-    <img src="/images/ovation-sire.jpg" alt="My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)">
-    <p class="caption">My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)</p>
+    <img src="/images/ovation-sire.jpg" alt="*B My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)">
+    <p class="caption">*B My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)</p>
   </div>
 </div>
 

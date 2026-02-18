@@ -9,7 +9,7 @@ weight: 2
 
 **Breed:** Purebred Nubian
 
-**Sire:** [My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
+**Sire:** [*B My-Enchanted-Acres LM Ovation](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001955293)
 **Dam:** [Lassenwood MC Valentina 2*M](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N001816438)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002261996)
@@ -56,8 +56,8 @@ weight: 2
 
 <div class="photo-gallery">
   <div>
-    <img src="/images/ovation-sire.jpg" alt="My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)">
-    <p class="caption">My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)</p>
+    <img src="/images/ovation-sire.jpg" alt="*B My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)">
+    <p class="caption">*B My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)</p>
   </div>
 </div>
 
