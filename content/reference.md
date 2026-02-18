@@ -12,7 +12,4 @@ type: "page"
   <div>
     <img src="/images/alexa-2.jpg" alt="Blossom-Thyme BTL Alexa">
   </div>
-  <div>
-    <img src="/images/alexa-3.jpg" alt="Blossom-Thyme BTL Alexa">
-  </div>
 </div>

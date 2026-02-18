@@ -61,13 +61,12 @@ weight: 6
 <div class="photo-gallery">
   <div>
     <img src="/images/zeus-dam-zhow-ztopper-1.jpg" alt="GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE">
-    <p class="caption">GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE (Photo courtesy of Blossom-Thyme)</p>
   </div>
   <div>
     <img src="/images/zeus-dam-zhow-ztopper-2.jpg" alt="GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE">
-    <p class="caption">GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE (Photo courtesy of Blossom-Thyme)</p>
   </div>
 </div>
+<p style="text-align: center;">GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE (Photo courtesy of Blossom-Thyme)</p>
 
 ## Lactation Records
 
