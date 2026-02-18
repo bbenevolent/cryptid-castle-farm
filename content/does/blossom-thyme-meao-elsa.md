@@ -43,6 +43,15 @@ weight: 2
 
 **Price:** $450
 
+## Dam
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/valentina-dam.jpg" alt="Lassenwood MC Valentina (Photo courtesy of Blossom-Thyme)">
+    <p class="caption">Lassenwood MC Valentina (Photo courtesy of Blossom-Thyme)</p>
+  </div>
+</div>
+
 ## Sire
 
 <div class="photo-gallery">
