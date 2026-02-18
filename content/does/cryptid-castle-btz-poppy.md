@@ -47,6 +47,19 @@ weight: 6
 
 **Price:** $450
 
+## Sire's Dam
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/zeus-dam-zhow-ztopper-1.jpg" alt="GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE">
+    <p class="caption">GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE (Photo courtesy of Blossom-Thyme)</p>
+  </div>
+  <div>
+    <img src="/images/zeus-dam-zhow-ztopper-2.jpg" alt="GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE">
+    <p class="caption">GCH Blossom-Thyme CM Zhow Ztopper 2*M 91VEEE (Photo courtesy of Blossom-Thyme)</p>
+  </div>
+</div>
+
 ## Lactation Records
 
 *Source: [CDCB WebConnect](https://webconnect.uscdcb.com/#/queries) · ADGA ID: NUUSA000002375310*
