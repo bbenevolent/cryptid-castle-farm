@@ -61,6 +61,15 @@ weight: 1
   </div>
 </div>
 
+## Sire
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/ovation-sire.jpg" alt="My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)">
+    <p class="caption">My-Enchanted-Acres LM Ovation (Photo courtesy of Blossom-Thyme)</p>
+  </div>
+</div>
+
 ## Lactation Records
 
 *Source: [CDCB WebConnect](https://webconnect.uscdcb.com/#/queries) · ADGA ID: NUUSA000002207433*
