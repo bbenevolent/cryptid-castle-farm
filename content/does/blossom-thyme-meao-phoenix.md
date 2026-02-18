@@ -14,19 +14,6 @@ weight: 1
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002207433)
 
-## Dam
-
-<div class="photo-gallery">
-  <div>
-    <img src="/images/fabinia-1.jpg" alt="SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)">
-    <p class="caption">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
-  </div>
-  <div>
-    <img src="/images/fabinia-2.jpg" alt="SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)">
-    <p class="caption">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
-  </div>
-</div>
-
 ## Show Results
 
 - 2nd place with Best Udder at NWODGA 2025 show
@@ -60,6 +47,19 @@ weight: 1
 **Kids Available:** Bucks available, after DNA results. First doe retained.
 
 **Price:** $600
+
+## Dam
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/fabinia-1.jpg" alt="SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)">
+    <p class="caption">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
+  </div>
+  <div>
+    <img src="/images/fabinia-2.jpg" alt="SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)">
+    <p class="caption">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
+  </div>
+</div>
 
 ## Lactation Records
 
