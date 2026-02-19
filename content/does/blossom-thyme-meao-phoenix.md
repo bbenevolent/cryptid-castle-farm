@@ -53,13 +53,12 @@ weight: 1
 <div class="photo-gallery">
   <div>
     <img src="/images/fabinia-1.jpg" alt="SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)">
-    <p class="caption">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
   </div>
   <div>
     <img src="/images/fabinia-2.jpg" alt="SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)">
-    <p class="caption">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
   </div>
 </div>
+<p style="text-align: center;">SG Blossom-Thyme KT Fabinia 4-05 88VEEV (Photo courtesy of Blossom-Thyme)</p>
 
 ## Sire
 
