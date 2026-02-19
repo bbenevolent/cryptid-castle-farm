@@ -14,7 +14,7 @@ weight: 7
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002416362)
 
-**Junior Herd Sire**
+**Junior Herd Sire** — Littermate brother of 2025 ADGA National Show Nubian Junior Champion, Wingwood Farm Star Lady Marion
 
 <div class="photo-gallery">
   <div>
