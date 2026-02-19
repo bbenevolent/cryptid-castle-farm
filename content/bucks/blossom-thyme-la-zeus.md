@@ -1,7 +1,7 @@
 ---
 title: "Blossom-Thyme LA Zeus"
 type: "bucks"
-featured_image: "/images/zeus-photo-1.jpg"
+featured_image: "/images/zeus-dam-zhow-ztopper-1.jpg"
 weight: 3
 ---
 
