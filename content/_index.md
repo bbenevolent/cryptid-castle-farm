@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-Welcome to **Cryptid Castle** — a small Nubian dairy goat farm raising ADGA Registered Nubians with care, quality genetics, and a touch of whimsy. We focus on breeding for excellent conformation, strong milk production, and wonderful temperaments.
+Welcome to **Cryptid Castle** — a small dairy goat farm raising ADGA Registered Nubians in Bigfoot's backyard with care, quality genetics, and a touch of whimsy. We focus on breeding for excellent conformation, strong milk production, and wonderful temperaments.
 
 We maintain a clean tested herd, please contact us if you'd like a copy of test results.
 
