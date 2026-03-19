@@ -1,7 +1,7 @@
 ---
 title: "Wingwood Farm STR Lord Donegal"
 type: "bucks"
-featured_image: "/images/donegal-photo.jpg"
+featured_image: "/images/lady-nimue-wingwood.jpeg"
 weight: 7
 ---
 
