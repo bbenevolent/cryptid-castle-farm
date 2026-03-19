@@ -24,4 +24,17 @@ weight: 7
 
 Lord Donegal is our junior herd sire for the 2025/2026 breeding season. He is bred to the majority of our does.
 
+## Relatives
+
+<div class="photo-gallery">
+  <div>
+    <img src="/images/lady-nimue-wingwood.jpeg" alt="Wingwood Farm Blazn Lady Nimue — Dam of Lord Donegal">
+    <p><strong>Wingwood Farm Blazn Lady Nimue</strong> — Dam of Lord Donegal. Linear Appraisal: 88 VVVV. <em>Photo courtesy of Wingwood Farm.</em></p>
+  </div>
+  <div>
+    <img src="/images/lucky-altima-wingwood.jpg" alt="SGCH Wingwood Farm Lucky Altima — Dam of Allstar, paternal granddam of Lord Donegal">
+    <p><strong>SGCH Wingwood Farm Lucky Altima</strong> — Dam of Allstar, paternal granddam of Lord Donegal. <em>Photo courtesy of Wingwood Farm.</em></p>
+  </div>
+</div>
+
 See our [breeding schedule](/breeding-schedule/) for full pairing details.
