@@ -20,6 +20,10 @@ weight: 8
 - Junior Grand Champion at 2025 Kitsap Fuzzy Show
 
 <div class="photo-gallery">
+  <div>
+    <img src="/images/selkie-2yr-first-freshener.jpg" alt="Selkie — 2 year old first freshener, 2 weeks fresh">
+    <p class="caption">2 year old first freshener, 2 weeks fresh</p>
+  </div>
   <div><img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>
   <div><img src="/images/selkie-ring.png" alt="Selkie in the show ring at an ADGA sanctioned show"></div>
   <div><img src="/images/selkie-junior-grand-champion.jpg" alt="Junior Grand Champion for Selkie! In the ring for Best in Show at the 2025 Kitsap Fuzzy Show"><p>Junior Grand Champion for Selkie! In the ring for Best in Show at the 2025 Kitsap Fuzzy Show</p></div>
@@ -31,7 +35,7 @@ weight: 8
 
 **Due Date:** April 3, 2026
 
-**Kids Available:** First doe retained
+**Kids Available:** Doeling available
 
 **Price:** $500
 
