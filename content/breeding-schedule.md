@@ -16,7 +16,7 @@ title: "Breeding Schedule"
 </thead>
 <tbody>
 <tr>
-  <td><a href="/does/blossom-thyme-meao-phoenix/">Blossom-Thyme MEAO Phoenix</a></td>
+  <td><a href="/does/blossom-thyme-meao-phoenix/">Blossom-Thyme MEAO Phoenix 3*M (pending)</a></td>
   <td><a href="/bucks/wingwood-farm-str-lord-donegal/">Wingwood Farm STR Lord Donegal</a> / <a href="/bucks/blossom-thyme-la-zeus/">Blossom-Thyme LA Zeus</a></td>
   <td>5/2</td>
   <td>Bucks available, after DNA results. First doe retained.</td>

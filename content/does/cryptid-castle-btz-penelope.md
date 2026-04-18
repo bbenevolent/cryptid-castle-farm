@@ -11,7 +11,7 @@ weight: 11
 **Breed:** Purebred Nubian
 
 **Sire:** [Blossom-Thyme LA Zeus](/bucks/blossom-thyme-la-zeus/)
-**Dam:** [Blossom-Thyme MEAO Phoenix](/does/blossom-thyme-meao-phoenix/)
+**Dam:** [Blossom-Thyme MEAO Phoenix 3*M (pending)](/does/blossom-thyme-meao-phoenix/)
 
 **ADGA Pedigree:** [View on ADGA Genetics](https://genetics.adga.org/GoatDetail.aspx?RegNumber=N002442399)
 
@@ -32,13 +32,13 @@ weight: 11
 
 <div class="photo-gallery">
   <div>
-    <img src="/images/phoenix-nwodga-2025.jpg" alt="Blossom-Thyme MEAO Phoenix">
+    <img src="/images/phoenix-nwodga-2025.jpg" alt="Blossom-Thyme MEAO Phoenix 3*M (pending)">
   </div>
   <div>
-    <img src="/images/phoenix-photo-1.jpg" alt="Blossom-Thyme MEAO Phoenix">
+    <img src="/images/phoenix-photo-1.jpg" alt="Blossom-Thyme MEAO Phoenix 3*M (pending)">
   </div>
 </div>
-<p style="text-align: center;"><a href="/does/blossom-thyme-meao-phoenix/">Blossom-Thyme MEAO Phoenix</a></p>
+<p style="text-align: center;"><a href="/does/blossom-thyme-meao-phoenix/">Blossom-Thyme MEAO Phoenix 3*M (pending)</a></p>
 
 ## Sire's Dam
 

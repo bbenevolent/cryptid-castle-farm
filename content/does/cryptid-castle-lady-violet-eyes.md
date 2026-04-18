@@ -1,13 +1,14 @@
 ---
 title: "Cryptid Castle Lady VioletEyes"
 type: "does"
+junior_doe: true
 featured_image: "/images/lady-violet-eyes.jpg"
 weight: 15
 ---
 
 **DOB:** March 15, 2026
 
-**Breed:** Purebred Nubian
+**Breed:** American Nubian
 
 **Sire:** [Wingwood Farm STR Lord Donegal](/bucks/wingwood-farm-str-lord-donegal/)
 **Dam:** [Cryptid Castle BTZ Poppy](/does/cryptid-castle-btz-poppy/)

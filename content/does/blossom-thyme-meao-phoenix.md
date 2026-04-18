@@ -1,5 +1,5 @@
 ---
-title: "Blossom-Thyme MEAO Phoenix"
+title: "Blossom-Thyme MEAO Phoenix 3*M (pending)"
 type: "does"
 featured_image: "/images/phoenix-nwodga-2025.jpg"
 weight: 1
