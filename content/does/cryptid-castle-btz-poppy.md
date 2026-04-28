@@ -20,6 +20,10 @@ weight: 6
 
 <div class="photo-gallery">
   <div>
+    <img src="/images/poppy-new-photo.jpg" alt="Poppy">
+    <p class="caption">New photo</p>
+  </div>
+  <div>
     <img src="/images/poppy-8-months.jpg" alt="Poppy at 8 months old">
     <p class="caption">8 months old</p>
   </div>
