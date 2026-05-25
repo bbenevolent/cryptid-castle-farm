@@ -1,7 +1,7 @@
 ---
 title: "Blossom-Thyme MEAO Phoenix 3*M (pending)"
 type: "does"
-featured_image: "/images/phoenix-nwodga-2025.jpg"
+featured_image: "/images/phoenix-main-2026-05-facebook.jpg"
 weight: 1
 ---
 
