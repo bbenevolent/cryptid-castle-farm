@@ -2,7 +2,7 @@
 title: "Cryptid Castle CMZ Petunia"
 type: "does"
 junior_doe: true
-featured_image: "/images/petunia-10months.jpg"
+featured_image: "/images/petunia-photo.jpg"
 weight: 10
 ---
 
@@ -17,7 +17,7 @@ weight: 10
 
 ## Show Results
 
-*No show results yet.*
+- Junior Grand Champion at 2026 Udder Spectacular, with judge Kelcie Wolboldt
 
 <div class="photo-gallery">
   <div>
