@@ -1,7 +1,7 @@
 ---
 title: "Cryptid Castle BTZ Selkie"
 type: "does"
-featured_image: "/images/selkie-show.png"
+featured_image: "/images/selkie-2yr-first-freshener.jpg"
 weight: 8
 ---
 
@@ -21,8 +21,8 @@ weight: 8
 
 <div class="photo-gallery">
   <div>
-    <img src="/images/selkie-2yr-first-freshener.jpg" alt="Selkie — 2 year old first freshener, 2 weeks fresh">
-    <p class="caption">2 year old first freshener, 2 weeks fresh</p>
+    <img src="/images/selkie-2yr-first-freshener.jpg" alt="Selkie — 2 year old 2nd freshener">
+    <p class="caption">2 year old 2nd freshener</p>
   </div>
   <div><img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>
   <div><img src="/images/selkie-ring.png" alt="Selkie in the show ring at an ADGA sanctioned show"></div>
