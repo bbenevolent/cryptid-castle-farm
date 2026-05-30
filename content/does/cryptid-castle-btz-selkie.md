@@ -24,7 +24,7 @@ weight: 8
     <img src="/images/selkie-2yr-first-freshener.jpg" alt="Selkie — 2 year old 2nd freshener">
     <p class="caption">2 year old 2nd freshener</p>
   </div>
-  <div><img src="/images/selkie-show.png" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>
+  <div><img src="/images/selkie-show.jpg" alt="Selkie — professional show photo by Bob Bartholomew Livestock Photography"></div>
   <div><img src="/images/selkie-ring.png" alt="Selkie in the show ring at an ADGA sanctioned show"></div>
   <div><img src="/images/selkie-junior-grand-champion.jpg" alt="Junior Grand Champion for Selkie! In the ring for Best in Show at the 2025 Kitsap Fuzzy Show"><p>Junior Grand Champion for Selkie! In the ring for Best in Show at the 2025 Kitsap Fuzzy Show</p></div>
 </div>
