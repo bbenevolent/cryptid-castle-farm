@@ -18,6 +18,7 @@ weight: 5
 
 ## Show Results
 
+- 2 year old 2nd freshener
 - 3 time Reserve Junior Champion at NEWDGA 2025
 - Reserve Junior Champion at 2025 Kitsap Fuzzy Show
 
@@ -31,6 +32,7 @@ weight: 5
   </div>
   <div>
     <img src="/images/anna-photo-2.jpg" alt="Anna">
+    <p class="caption">2 year old 2nd freshener</p>
   </div>
 </div>
 
