@@ -17,10 +17,10 @@ featured_image: "/images/spark-main.jpg"
 
 ## Show Results
 
-*No show results yet.*
+- Junior Grand Champion at 2026 Udder Spectacular, with judge Ed Jodlowksi, handled by Nick Esch
 
 <div class="photo-gallery">
-  <div><img src="/images/spark-main.jpg" alt="Spark"></div>
+  <div><img src="/images/spark-main.jpg" alt="Cryptid Castle Vintage Spark"><p>Junior Grand Champion at 2026 Udder Spectacular, with judge Ed Jodlowksi, handled by Nick Esch</p></div>
   <div><img src="/images/spark-1-week-old.jpg" alt="Spark at 1 week old"><p>1 week old</p></div>
   <div><img src="/images/spark-photo-2.jpg" alt="Spark"></div>
   <div><img src="/images/spark-photo-3.jpg" alt="Spark"></div>
